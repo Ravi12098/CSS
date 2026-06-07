@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+h2 {
+    text-decoration: line-through;
+}
+
+h3 {
+    text-decoration: overline;
+}
+
+p {
+    line-height: 2.5;
+    letter-spacing: 5px;
+}
