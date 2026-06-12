@@ -1,0 +1,53 @@
+* {
+    background-color: rgba(42, 40, 40, 0.623);
+}
+
+h1 {
+    color: rgb(181, 66, 66);
+}
+
+#login {
+    background-color: rgb(56, 56, 189);
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#signup {
+    background-color: rgb(82, 82, 104);
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+input {
+    color: white;
+    background-color: rgb(40, 43, 40);
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+li {
+    color: aliceblue;
+}
+
+h3 {
+    color: white;
+}
+
+.name {
+    color: rgb(209, 89, 89)
+}
+
+.up {
+    background-color: beige;
+    color:rgb(30, 28, 28)
+}
+
+.ans {
+    background-color: burlywood;
+    color: black;
+}
