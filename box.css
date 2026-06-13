@@ -7,7 +7,14 @@ div {
     border-color: black;
     border-radius: 15px;
     padding: 100px;
-    margin: 20px 20px 20px
+    margin: 20px 20px 20px;
+    transitions: 2s;
+    
+}
+
+div :hover {
+    background-color: aquamarine;
+    color: blue;
 }
 
 h1 {
@@ -15,9 +22,11 @@ h1 {
     border-style: dashed;
     border-color: aqua;
     width: 500px
+
 }
 
 button {
     border: 2px solid black;
     border-radius: 5px;
+
 }
