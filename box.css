@@ -8,7 +8,7 @@ div {
     border-radius: 15px;
     padding: 100px;
     margin: 20px 20px 20px;
-    transitions: 2s;
+    transition: 2s;
     
 }
 
