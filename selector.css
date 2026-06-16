@@ -37,6 +37,11 @@ li {
 
 h3 {
     color: white;
+    transition: 2s;
+}
+
+h3:hover {
+    color: rgb(61, 149, 193);
 }
 
 .name {
