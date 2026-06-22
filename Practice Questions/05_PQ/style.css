@@ -27,6 +27,14 @@ img:hover {
     width: 90%;
 }
 
+h3 {
+    transition: 1s;
+}
+
+h3:hover {
+    color: brown;
+}
+
 #pets {
     display: flex;
     justify-content: space-around;
