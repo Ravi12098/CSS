@@ -45,3 +45,11 @@ h3:hover {
         flex-wrap: wrap;
     }
 }
+
+p {
+    transition: 1s;
+}
+
+p:hover {
+    color: rgb(102, 172, 172);
+}
