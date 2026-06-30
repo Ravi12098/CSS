@@ -31,6 +31,12 @@ a {
 button {
     background-color: white;
     color: blueviolet;
+    transition: 1s;
+}
+
+button:hover {
+    color: black;
+    background-color: rgb(76, 76, 178);
 }
 
 textarea {
