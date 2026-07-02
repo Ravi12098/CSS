@@ -8,6 +8,12 @@ h1 {
 
 .userbtn {
     background-color: skyblue;
+    transition: 1s;
+}
+
+.userbtn:hover {
+    background-color: rgb(15, 14, 14);
+    color: white;
 }
 
 #searchbtn {
