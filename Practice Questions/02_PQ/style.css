@@ -19,4 +19,10 @@ h1 {
 #searchbtn {
     background-color: black;
     color: white;
+    transition: 1s;
+}
+
+#searchbtn:hover {
+    background-color: #1b74e4;
+    color: black;
 }
