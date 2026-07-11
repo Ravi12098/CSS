@@ -9,6 +9,7 @@ h1 {
 .userbtn {
     background-color: skyblue;
     transition: 1s;
+    cursor: pointer;
 }
 
 .userbtn:hover {
@@ -20,6 +21,7 @@ h1 {
     background-color: black;
     color: white;
     transition: 1s;
+    cursor: pointer;
 }
 
 #searchbtn:hover {
