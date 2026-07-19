@@ -28,3 +28,7 @@ h1 {
     background-color: #1b74e4;
     color: black;
 }
+
+.search {
+    cursor: pointer;
+}
