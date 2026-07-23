@@ -5,6 +5,7 @@ h2 {
 button {
     background-color: blue;
     color: white;
+    cursor: pointer;
 }
 
 p {
